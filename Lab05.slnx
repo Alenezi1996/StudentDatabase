@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="../../../Downloads/students.txt" />
+  </Folder>
+  <Project Path="StudentSystem/StudentSystem.vcxproj" Id="a29c23d4-8ae9-43b0-b937-12a707ef6f6f" />
+</Solution>
